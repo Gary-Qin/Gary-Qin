@@ -1,6 +1,6 @@
 [![email](https://img.shields.io/badge/email-garyzhqin@gmail.com-red?style=flat-square)](mailto:garyzhqin@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-gary--qin-blue?style=flat-square)](https://www.linkedin.com/in/gary-qin/)
 ### Hello!
-I'm Gary, a third-year software engineering student at McMaster University. Feel free to take a look at some of the projects I've worked on!
+I'm Gary, a third-year software engineering student at McMaster University. When I'm not overwhelmed with coursework, I like to learn more about fullstack development and make small projects to practice. Feel free to take a look at some of the projects I've worked on!
 
 ### Ongoing Projects
 - Building [TinyTowns](https://www.tinytowns.app/)
@@ -9,7 +9,6 @@ I'm Gary, a third-year software engineering student at McMaster University. Feel
 ### Planned Projects
 - Create a portfolio website
 - Create a playable version of the strategy game Orbito
-- Design the UI/UX for a [real-time collaborative to-do list](https://github.com/Gary-Qin/collab-todo-list)
 
 ### Languages, Frameworks, and Tools
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
