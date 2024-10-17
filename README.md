@@ -1,5 +1,5 @@
 [![email](https://img.shields.io/badge/email-garyzhqin@gmail.com-red?style=flat-square)](mailto:garyzhqin@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin-gary--qin-blue?style=flat-square)](https://www.linkedin.com/in/gary-qin/)
-### Hello! 👋
+### Hello!
 I'm Gary Qin (he/him), a third-year software engineering student at McMaster University. Feel free to take a look at some of the projects I've worked on!
 
 ### Ongoing Projects
