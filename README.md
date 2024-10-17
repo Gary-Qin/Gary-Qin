@@ -7,9 +7,9 @@ I'm Gary Qin (he/him), a third-year software engineering student at McMaster Uni
 - Contributing to the [McMaster Engineering Society website](https://macengsociety.ca)
 
 ### Planned Projects
-- Creating a portfolio website
-- Creating a playable version of the strategy game Orbito
-- Designing the UI/UX for a [real-time collaborative to-do list](https://github.com/Gary-Qin/collab-todo-list)
+- Create a portfolio website
+- Create a playable version of the strategy game Orbito
+- Design the UI/UX for a [real-time collaborative to-do list](https://github.com/Gary-Qin/collab-todo-list)
 
 ### Languages, Frameworks, and Tools
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
