@@ -8,7 +8,7 @@ I'm Gary, a third-year software engineering student at McMaster University. When
 
 ### Planned Projects
 - Create a portfolio website
-- Create a playable version of the strategy game Orbito
+- Learn Golang, and create a backend that supports concurrent connections with realtime database updates
 
 ### Languages, Frameworks, and Tools
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
