@@ -6,10 +6,6 @@ I'm Gary, a third-year software engineering student at McMaster University. When
 - Building [TinyTowns](https://www.tinytowns.app/)
 - Contributing to the [McMaster Engineering Society website](https://macengsociety.ca)
 
-### Planned Projects
-- Create a portfolio website
-- Learn Golang, and create a backend that supports concurrent connections with realtime database updates
-
 ### Languages, Frameworks, and Tools
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
