@@ -4,7 +4,7 @@ I'm Gary, a fourth-year Software Engineering student at McMaster University. I r
 
 ### What I'm working on
 - **[Lake](https://github.com/capstoneCEGJM/Lake)**: capstone project, distributed LLM inference across local devices
-- **[MES website](https://macengsociety.ca)**: senior developer on the room booking system (~600 bookings/month)
+- **[MES website](https://macengsociety.ca)**: technical manager for the Hatch room booking system (~600 bookings/month)
 - **[task-queue](https://github.com/Gary-Qin/task-queue)**: a job queue in Go with worker pools, retries with backoff, and graceful shutdown
 
 ### Tech
