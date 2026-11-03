@@ -8,7 +8,7 @@ I'm Gary, a fourth-year Software Engineering student at McMaster University. I r
 - working through the **[Crafting Interpreters book](https://craftinginterpreters.com/)** book
 
 ### Tech
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,java,go,py,postgres)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,react,java,go,py,postgres)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gary-Qin/Gary-Qin/output/github-contribution-grid-snake-dark.svg">
